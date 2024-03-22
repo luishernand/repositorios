@@ -12,6 +12,7 @@ Soy un apasionado científico de datos y analista de datos con amplia experienci
 
 | Nombre del Proyecto | Tipo de Problema | Descripción | Link |
 |---|---|---|---|
+| Predicción Precio BTC | Regresión | El objetivo desarrollar un modelo de Machine Learning para predecir el precio futuro de Bitcoin | (https://github.com/luishernand/predecir_precio_BTC) |
 
 
 
