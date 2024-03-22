@@ -12,7 +12,8 @@ Soy un apasionado científico de datos y analista de datos con amplia experienci
 
 | Nombre del Proyecto | Tipo de Problema | Descripción |
 |---|---|---|
-| [Predicción Precio BTC](https://github.com/luishernand/predecir_precio_BTC) | Regresión | El objetivo desarrollar un modelo de Machine Learning para predecir el precio futuro de Bitcoin |
+| [Predicción Precio BTC](https://github.com/luishernand/predecir_precio_BTC) | Regresión | El objetivo es desarrollar un modelo de Machine Learning para predecir el precio futuro de Bitcoin | 
+| [fuga de empleados(Churn Rate)](https://github.com/luishernand/fuga_empleados) | Clasificación | consiste en un análisis del impacto monetario asi como también el realizar las predicciones futuras cuando un empleado renuncia de la empresa |
 
 
 
