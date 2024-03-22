@@ -8,7 +8,8 @@ Soy un apasionado científico de datos y analista de datos con amplia experienci
 1. Machine Learning y deep learning
 1. Visualización de datos: Tableau,Power BI
    
-**Este repositorio alberga una selección de mis proyectos:** 
+**Este repositorio alberga una selección de mis proyectos:**   
+
 |Protafolio|Tipo de problema|Descripción|link|
 |----------|----|-----------|-----------|----|
 
