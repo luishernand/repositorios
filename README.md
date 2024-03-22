@@ -8,7 +8,7 @@ Soy un apasionado científico de datos y analista de datos con amplia experienci
 1. Machine Learning y deep learning
 1. Visualización de datos: Tableau,Power BI
 
-Estoy buscando nuevos desafíos y oportunidades para utilizar mis habilidades para hacer un impacto real. Estoy particularmente interesado en trabajar en proyectos que tengan un impacto positivo. No dude en contactarme para obtener más información sobre mi experiencia o para discutir cómo puedo colaborar con usted en proyectos futuros.
+Estoy buscando nuevos desafíos y oportunidades para utilizar mis habilidades que tengan un impacto positivo. No dude en contactarme para obtener más información sobre mi experiencia o para discutir cómo puedo colaborar con usted en proyectos futuros.
    
 **Este repositorio alberga una selección de mis proyectos:**   
 
