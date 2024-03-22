@@ -10,8 +10,8 @@ Soy un apasionado científico de datos y analista de datos con amplia experienci
    
 **Este repositorio alberga una selección de mis proyectos:**   
 
-|Protafolio|Tipo de problema|Descripción|link|  
-|----------|----|-----------|-----------|----|
+| Nombre del Proyecto | Tipo de Problema | Descripción | Link |
+|---|---|---|---|
 
 
 
