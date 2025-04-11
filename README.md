@@ -22,7 +22,7 @@ Estoy buscando nuevos desafíos y oportunidades para utilizar mis habilidades qu
 | [Inteligencia-de-Negocios](https://luishernand.github.io/Inteligencia-de-Negocios/) | BI | Repositorio  compuesto por reportes creados con las herramientas de PowerBI, Tableau y  Streamlit | 
 | [Análisis Exploratorio de Datos(EDA)](https://luishernand.github.io/Analisis-EDA-predicciones/) | Clasificación, Regresión, EDA, Cluster, NPL entre otros | Aqui podras ver todos mis trabajos realizados en python |
 | [Repositorio por tipo de Empresas](https://luishernand.github.io/Mis-proyectos-de-ML-por-tipo-Industrias/) | Business Anlaitycs | Proyectos clasificados por tipo de empresa,donde se utilizan todas las técnicas de ciencia de datos |   
-| [Sistema de Recomendación Medico](https://github.com/luishernand/srm/tree/main) | Clasificación y Recom0enación | predece las enfermedades potenciales y recomienda los principales medicamentos | 
+| [Sistema de Recomendación Medico](https://github.com/luishernand/srm/tree/main) | Clasificación y Recomendación | predece las enfermedades potenciales y recomienda los principales medicamentos | 
 
   
 
